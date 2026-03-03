@@ -1,0 +1,4 @@
+
+interface Trabajable {
+    void trabajar();
+}

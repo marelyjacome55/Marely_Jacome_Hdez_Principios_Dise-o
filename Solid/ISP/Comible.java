@@ -1,0 +1,4 @@
+
+interface Comible {
+    void comer();
+}

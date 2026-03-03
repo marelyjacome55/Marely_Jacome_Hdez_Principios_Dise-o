@@ -1,0 +1,4 @@
+
+interface MetodoPago {
+    void procesarPago();
+}
